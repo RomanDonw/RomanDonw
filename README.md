@@ -1,16 +1,33 @@
-## Hi there 👋
+# About me
+## [My own site](https://evolationstudios.ru/) (only russian, sorry :( english dudes)
+## Prefer speaking/talking languages:
+- Russian (main, C2 "level")
+- English
 
-<!--
-**RomanDonw/RomanDonw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About programming & IT
 
-Here are some ideas to get you started:
+## Soms random facts
+* I wrote my own 32-bit (working in protected mode) OS on assembly! Source code will be published in near future.
+* I don't understand CMake... Instead of it, I use scripts (batch or bash) to compile my programs. ._.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## OSes
+- Windows (hate programming on C/C++ here).
+- Linux (not all games work correct).
+- MS-DOS (sometimes, just for fun xd).
+
+## Languages
+### Best
+- Assembly (NASM)
+- C
+- C++
+### So-so:
+- Java
+- BlitzBasic
+- Lua
+- JavaScript
+- - PHP
+### Hated
+- Python
+- C#
+- Go
+- TypeScript
