@@ -20,7 +20,7 @@
 - Assembly (NASM)
 - C
 - C++
-### So-so:
+### So-so
 - Java
 - BlitzBasic
 - Lua
