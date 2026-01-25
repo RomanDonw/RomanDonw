@@ -25,7 +25,7 @@
 - BlitzBasic
 - Lua
 - JavaScript
-- - PHP
+- PHP
 ### Hated
 - Python
 - C#
