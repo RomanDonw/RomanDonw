@@ -1,5 +1,7 @@
 # About me
 ## [My own site](https://evolationstudios.ru/) (only russian, sorry :( english dudes)
+- Discord: `romandonw`
+
 ## Prefer speaking/talking languages:
 - Russian (main, C2 "level")
 - English
