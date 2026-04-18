@@ -10,7 +10,6 @@
 
 ## Soms random facts
 * I wrote my own 32-bit (working in protected mode) OS on assembly! Source code will be published in near future.
-* I don't understand CMake... Instead of it, I use scripts (batch or bash) to compile my programs. ._.
 
 ## OSes
 - Windows (hate programming on C/C++ here).
