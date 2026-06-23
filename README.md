@@ -3,7 +3,7 @@
 - Discord/Telegram: `romandonw`/`@romandonw`
 
 ## Prefer speaking/talking languages:
-- Russian (main, C2 "level")
+- **Russian**
 - English
 
 # About programming & IT
