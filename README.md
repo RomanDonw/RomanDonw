@@ -1,10 +1,10 @@
 # About me
 ## [My own site](https://evolationstudios.ru/) (only russian, sorry :( english dudes)
-- Discord/Telegram: `romandonw`/`@romandonw`
+- Discord/Telegram: `@romandonw`
 
 ## Prefer speaking/talking languages:
 - **Russian**
-- English
+- English (i think its bad)
 
 # About programming & IT
 
@@ -27,8 +27,8 @@
 - Lua
 - JavaScript
 - PHP
-### Hated
 - Python
+### Hated
 - C#
 - Go
 - TypeScript
