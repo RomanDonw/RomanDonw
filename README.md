@@ -9,7 +9,7 @@
 # About programming & IT
 
 ## Soms random facts
-* I wrote my own 32-bit (working in protected mode) OS on assembly! Source code will be published in near future.
+* I wrote my own 32-bit (working in protected mode) OS on assembly! Source code will be published in near future (UPD: I`m already got sources from some old HDD, so just wait when i find the moment to public the source code).
 
 ## OSes
 - Windows (hate programming on C/C++ here).
