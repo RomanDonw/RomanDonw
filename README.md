@@ -1,6 +1,8 @@
 # About me
-## [My own site](https://evolationstudios.ru/) (only russian, sorry :( english dudes)
-- Discord/Telegram: `@romandonw`
+## Social media
+- [Website](https://evolationstudios.ru/) (only russian, sorry :( english dudes).
+- Discord/Telegram: `@romandonw`.
+- [Discord server](https://discord.gg/RWtu23s66r) (Russian prefer).
 
 ## Prefer speaking/talking languages:
 - **Russian**
